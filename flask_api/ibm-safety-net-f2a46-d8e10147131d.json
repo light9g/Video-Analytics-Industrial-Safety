@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ibm-safety-net-f2a46",
+  "private_key_id": "d8e10147131dad6cb366467bbc7901b81ad3f1e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXB3w+HwEMJytR\nwRXI1QEAXVg8xljsjbuOUeGYU+6GCSzof2+KC3OkEuhpPxaqUN+Yh7UfYsLpXyJt\n+Mi0sRZktlN1YCKac2bXwRHJlILMEAlTRv4p75cN+Yz4jx0eh8AfpE4DdVJ/Xmpj\nv3pkA7B9eXejxPcWaKfjdOni0pb0otyKiCc7ZUNcgRK4tZLWx7ETFBY9u2CNih1P\nFZDuZIh0gl0ybj19cCKgLDy+U1Zp6oXypPkqO0TCf9tfc9ZGNJhy9tlZCqnqqGaU\nLXY+NB/Wcz9UUaUb5+Vhwxi/QNluyZTyzezO5lZgAZp9pE6XHKVdcM0kM4OntLbc\nQ6ST6VEfAgMBAAECggEAN+R3NAKFGC6aQP7qdbCAOSMKS4nXFW3l4aGA/UJbzrVV\n2f099ejyHyTXCnxenNi2tgQYXVcjiNu0rFctfGJHitglq23YsMLsaYqC4B3dPcOx\nWNcsO6ROZFCIhxdUH1pz4wWnTZjSX88f4lukKZkX6BWJtqT9APMlKKd8H/xTRrUQ\nWe/n/snmdI5NiGosff8CbDdel/XLR4kEp108J5VBVtE87arP3d5+CTHYD/9FGwUV\ntq4aPA7nVSASX6JfUe7gBlVoB+e1WwzwNI/7oI3CqSByQOJgZR8mSe9HFaifLQDQ\nEsDRvXkWdt7j7KC4BULJsCecPwR4OptNqfzNPoUgsQKBgQD6U+60h1ofEweL2JQ/\nUrUFPHwac2s1BbCtkaVWOr0DYNkTwfG8CAIQQd4GiZY7F/kariAewmVZul9pvn3c\n44QIE3yA4D9ZnlaGeix7qn5Uq5dz/OM7O1pXUIt4Xga5J+yMzgxPf2OQoQ8xfiNZ\nQ7nCuKOaPjcChxmYxdZd0RpJdwKBgQDb5swnNTHZk5iLBwbZN2h9O7/e05wOqDrf\n23c9UcGvPnO3XqrMcAeRZ15/g7CxMFZ8TDskhU2f1O+JHys3+NhrJVBDFR4/pp4y\nu32aKkDu/t7PJ1Ulw2fb3Ycjg5mpK+N2bLn5EQMvyIOsOZteGbZOTeu+lpF43GLo\nv9BtSaIfmQKBgHXVBlriD5DrAzVXyEiaZO1HEF/fDorR192L3ljdo1UwxF3hgClz\nV41Rg/Jt11KPsUlWx3XTKaP376u16EcOrXqjuYpshEVqG+6HGeNIWNkAQHVvh4K9\nKIRLPKt3DxEe8uFAqFjPbQ2KUr2IU5lUIN/Ay/nx6TD+aRUZoxNcN1R3AoGBAKSn\nvFXfTuRLz/zJ1ibvhh2/j3uZl1CiRvM3saEIhq5hZOP4zosll4UYkXmJcdQ7DYck\nzWQbLHRxTKqv2/ydJ++SkPap6WxfpjT2jqXQ3a4WyV7zZJ5SIoJO7dF5yKUTZ85U\nuyvzwR8WVQGwYNWlCwy2675Zn7OP0b/VYIt0hyCBAoGAfZfCqZuFbg/4zqYeFWKR\nWzfeIE8k7QdT3nqpf5XjMJKnMg+RKZtf/8ht7dkW8Ig3Rd+OI/FOAhIUEFptLwIB\nU7iQhbLYbB+hjSVnNFYe2dUCANXHiWdlUZKoHQi4DNz8s/eDXV9WLneTRqzMgFng\nHvwXHHhx8X495s2m3AA0rhU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "industrialsafetybucket@ibm-safety-net-f2a46.iam.gserviceaccount.com",
+  "client_id": "105726217128938230453",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/industrialsafetybucket%40ibm-safety-net-f2a46.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
